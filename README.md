@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Kassi
+- 👋 Hi, I’m Kassi.
 - 👀 I’m interested in Data Science & Blockchain field
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me knogbou@gmail.com
 
