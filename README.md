@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kassi.
 - 👀 I’m interested in Data Science & Financial field
-- 🌱 I’m currently learning Deep Learning and Algorithmic Trading for Automated Trading
+- 🌱 I’m currently learning Deep Learning and Algorithmic Trading
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me knogbou@gmail.com
 - 📫 where to see my works https://antonio2505.github.io/kassi_portfolio/
