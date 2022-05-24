@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Deep Learning and Algorithmic Trading
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me knogbou@gmail.com
+- 📫 My projects at https://antonio2505.github.io/antoine_kassi/
 
 <!---
 antonio2505/antonio2505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
